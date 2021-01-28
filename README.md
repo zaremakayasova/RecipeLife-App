@@ -1,7 +1,7 @@
 # RecipeLife-App
 Food Recipe App. Search for recepies with certain ingredients.
 
-Project uses Edamam API to fetch recipes. RecipeLife-App is responsive and mobile friendly app built with HTML5, CSS3 and JavaScript.
+Project uses Edamam API to fetch recipes. RecipeLife-App is a responsive and mobile friendly app built with HTML5, CSS3 and JavaScript.
 
 #### Live Demo
 
